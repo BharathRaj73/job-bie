@@ -2,7 +2,7 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div >
+    <div>
        <div class="grid md:block ">
 <div class="bg-gradient-to-r from-cyan-500 to-blue-500 h-72 flex justify-center w-full h-full">
     <div class="mt-10 text-white text-4xl font-bold">GET IN TOUCH</div>
